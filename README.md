@@ -31,7 +31,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 #### 🌱 For the future
   - I am trying to improve my skills in 3D modeling with machine learning.
-  - I want to create my own business.
 #### 📫 Contanct me
    - email: michele.specchia@edu.unife.it
 

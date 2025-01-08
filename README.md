@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Michele!
 
-### 🔭 Work 
+### 🔭 About me
    - I’m currently working at [ausl.fe](https://www.ausl.fe.it/) 
    as a machine learning researcher and website developer.
    - I also collaborate for [ACLAI Lab](https://github.com/aclai-lab).
@@ -29,8 +29,9 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-#### 🌱 Try to learn
+#### 🌱 For the future
   - I am trying to improve my skills in 3D modeling with machine learning.
+  - I want to create my own business.
 #### 📫 Contanct me
    - email: michele.specchia@edu.unife.it
 
